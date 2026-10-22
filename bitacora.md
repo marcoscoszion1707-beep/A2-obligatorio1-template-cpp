@@ -1,6 +1,6 @@
 # Bitácora — Obligatorio 1
 
-**Integrantes:** Nombre Apellido (Nº estudiante), Nombre Apellido (Nº estudiante)
+**Integrantes:** Marcos Coszion (332945), Luca Bruni (...)
 
 > **Instrucciones** (borrar esta sección antes de entregar): agregar una entrada por
 > cada día trabajado, indicando la fecha y quién trabajó (un integrante o "En conjunto").
