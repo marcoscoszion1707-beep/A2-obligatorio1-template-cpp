@@ -1,7 +1,0 @@
-si
-no
-120
-500
-gioconda
-girasoles
-guernica
