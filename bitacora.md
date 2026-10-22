@@ -23,7 +23,7 @@
 - Dimensionamos la tabla utilizando el primer primo mayor o igual que N, sin realizar rehash.
 - Consultamos material de Aulas y conversamos con un compañero de otro grupo al encontrar dificultades.
 - IA: revisión de código. Se evaluó modificar el dimensionamiento del hash, pero se decidió conservar el original. Quedó identificada una observación sobre la justificación del costo de buscar el primo.
-- Salida de pruebas de ejercicio 2 Ok.
+- Ocurrencia de un warning por comparacion de diferentes tipos, no afecta el funcionamineto, pruebas ejercicio 2 dan ok.
 
 ## 2026-10-18 — En conjunto — Ejercicio 3
 
