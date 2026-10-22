@@ -1,7 +1,7 @@
 #ifndef MFSET_IMP
 #define MFSET_IMP
 
-#include "MFSet.h"
+#include "Mfset.h"
 
 class MFSetImp : public MFSet {
   private:

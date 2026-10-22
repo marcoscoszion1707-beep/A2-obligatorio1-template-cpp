@@ -3,7 +3,7 @@
 #include <iostream>
 #include <limits>
 #include "tads/AVL.h"
-#include "tads/AVLImp.cpp"
+#include "tads/AVLimp.cpp"
 
 using namespace std;
 
